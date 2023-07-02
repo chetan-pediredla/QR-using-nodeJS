@@ -1,2 +1,11 @@
-# QR-using-nodeJS
-The Node.js QR Code Generator project is a web application that leverages the power of Node.js to provide users with a seamless QR code generation experience. With this application, users can input various types of data, such as URLs, text, contact information, and more, and instantly generate QR codes using the Node.js backend.
+## QR Code Generator using Node.js
+
+This project is a QR code generator web application built using Node.js. It allows users to easily generate QR codes in the PNG image format by providing various types of data such as URLs, text, contact information, and more.
+
+### Features
+
+Generate QR codes in the PNG image format.
+
+Supports multiple data types, including URLs, text, contact information, etc.
+
+Download and share generated QR codes.
